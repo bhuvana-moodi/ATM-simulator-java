@@ -22,3 +22,9 @@ This is a console-based ATM Simulator built using:
 4. Compile:
    ```bash
    javac -cp lib/mysql-connector-j-8.0.33.jar -d bin src/*.java
+
+
+## to RUN
+
+java -cp "lib/mysql-connector-j-8.0.33.jar;bin" Main
+
