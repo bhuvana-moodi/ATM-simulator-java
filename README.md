@@ -21,4 +21,4 @@ This is a console-based ATM Simulator built using:
 3. Update your DB credentials in `Database.java`
 4. Compile:
    ```bash
-   javac -cp lib/mysql-connector-java-8.0.33.jar -d bin src/lib/*.java
+   javac -cp lib/mysql-connector-j-8.0.33.jar -d bin src/*.java
